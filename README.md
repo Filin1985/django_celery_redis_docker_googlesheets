@@ -10,3 +10,7 @@
 * Redis
 * Postgres
 * Docker
+
+## Запуск проекта
+
+docker-compose up --build
