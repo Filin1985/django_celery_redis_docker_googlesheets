@@ -1,1 +1,1 @@
-# django_celer_redis_docker_googlesheets
+# django_celery_redis_docker_googlesheets
