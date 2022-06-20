@@ -12,5 +12,6 @@
 * Docker
 
 ## Запуск проекта
-
+```
 docker-compose up --build
+```
